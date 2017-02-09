@@ -1,0 +1,1 @@
+{"__symbolic":"module","version":1,"metadata":{},"exports":[{"from":"./ng2-cognito-sync.module"},{"from":"./ng2-cognito-sync.config"},{"from":"./ng2-cognito-sync.service"},{"from":"./ng2-cognito-sync.models","export":["Ng2CognitoSyncProvider"]}]}
